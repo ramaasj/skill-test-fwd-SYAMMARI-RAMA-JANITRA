@@ -1,0 +1,16 @@
+body{
+    font-family: Calibri;
+}
+
+h1, p{
+    text-align: center;
+}
+
+.inputs{
+    margin:auto;
+    width: 30%;
+}
+
+input{
+    width: 100%;
+}
